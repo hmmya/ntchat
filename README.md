@@ -200,4 +200,4 @@ if __name__ == '__main__':
 
 帮助&支持
 -------------------------
-点击链接加入群聊 [PyXCGUI&NtChat交流群](https://jq.qq.com/?_wv=1027&k=oIXzbTbI)
+
